@@ -13,13 +13,13 @@
     }
 ```
 
-![0V72HS9Q_J69~QB_~FKV__K.png](https://i.loli.net/2020/12/21/4hZaFKmwGfWd9Y6.png)
+![0QT7YFW`FIP~@LR`DGA_IOC.png](https://i.loli.net/2020/12/21/l2DIiq6NQWgr1fk.png)
 
 ### 二、添加笔记查询功能（根据标题查询）
 
 在ActionBar新增一个搜索图标
 
-![](https://riyugo.com/i/2020/12/21/gyjyxu.png)
+![4Q7_Q1L4_QPILB9FLE_2_JX.png](https://i.loli.net/2020/12/21/Hu2IDkrseA4iBVp.png)
 
 新建一个Search的Activity用于搜索，主要使用SearchView完成搜索
 
@@ -97,7 +97,7 @@ public class Search extends AppCompatActivity {
 
 给搜索图标添加点击跳转事件跳转到Search界面，进行搜索。
 
-![_9WJBREB0B_KB0T_M_@I_B0.png](https://i.loli.net/2020/12/21/HiTqhx6QGCepNrJ.png)
+![_9WJBREB0B_KB0T_M_@I_B0.png](https://i.loli.net/2020/12/21/jYpuCEkvOQ1et69.png)
 
 ### 三、附加功能
 
@@ -111,7 +111,7 @@ public void linkmanNum(){
 }
 ```
 
-![PIE__6ID@0`EK98D14`H682.png](https://i.loli.net/2020/12/21/fYJow7EVFzStyNO.png)
+![PIE__6ID@0`EK98D14`H682.png](https://i.loli.net/2020/12/21/Z9Wge5l8Tqh4BUu.png)
 
 （2）界面美化
 
@@ -119,7 +119,7 @@ public void linkmanNum(){
 
 actionbar中的布局放在menu文件中，在MainActivity进行配置显示。
 
-<img src="https://i.loli.net/2020/12/21/4hZaFKmwGfWd9Y6.png" alt="0V72HS9Q_J69~QB_~FKV__K.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/bLV48Pdtqn197mc.png" alt="TG4@_U_A`HP_64Q_7MAH_H7.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/cLr42WFpbRMGOK7.png" alt="MPAYVEKZ14_YCOGF_FZ2UHV.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/gYfkNLC6y2cv7Ur.png" alt="2_JSCQS5QM__6X_Y`9_Z6NL.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/12/21/wtcBV71TdMIpW3R.png" alt="0V72HS9Q_J69~QB_~FKV__K.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/mryG5zkxlBsKq8Z.png" alt="TG4@_U_A`HP_64Q_7MAH_H7.png" style="zoom: 50%;" /><img src="https://i.loli.net/2020/12/21/ENlzDe4QpxPrakh.png" alt="2_JSCQS5QM__6X_Y`9_Z6NL.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/faTDb27dW4MNnPu.png" alt="MPAYVEKZ14_YCOGF_FZ2UHV.png" style="zoom:50%;" />
 
 （3）改变记事本主题，日间模式和夜间模式切换。
 
@@ -129,7 +129,7 @@ actionbar中的布局放在menu文件中，在MainActivity进行配置显示。
 
 备注：该功能不稳定，还需要完善
 
-<img src="https://i.loli.net/2020/12/21/ZNr5mR3gQb4s9th.png" alt="OYF7536JOQ_WBK0_EDU8_~G.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/lKafs24GxtJRFLP.png" alt="UI9_4Z@EKT@M83SS~__PV_4.png" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/12/21/ab4t3nXdVq6oZuQ.png" alt="OYF7536JOQ_WBK0_EDU8_~G.png" style="zoom:50%;" /><img src="https://i.loli.net/2020/12/21/VIHypbjDXgCmL3a.png" alt="UI9_4Z@EKT@M83SS~__PV_4.png" style="zoom:50%;" />
 
 
 
